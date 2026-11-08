@@ -1,0 +1,1682 @@
+﻿[
+    {
+        "qid":  "Q1-001",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "",
+        "keyword":  "1-1"
+    },
+    {
+        "qid":  "Q1-002",
+        "difficulty":  "하",
+        "answer":  4,
+        "qtype":  "",
+        "keyword":  "1-1"
+    },
+    {
+        "qid":  "Q1-003",
+        "difficulty":  "하",
+        "answer":  1,
+        "qtype":  "",
+        "keyword":  "1-1"
+    },
+    {
+        "qid":  "Q1-004",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "",
+        "keyword":  "1-1"
+    },
+    {
+        "qid":  "Q1-005",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "",
+        "keyword":  "1-1"
+    },
+    {
+        "qid":  "Q1-006",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "",
+        "keyword":  "1-1"
+    },
+    {
+        "qid":  "Q1-007",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "",
+        "keyword":  "1-1"
+    },
+    {
+        "qid":  "Q1-008",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "",
+        "keyword":  "1-1"
+    },
+    {
+        "qid":  "Q1-009",
+        "difficulty":  "상",
+        "answer":  2,
+        "qtype":  "",
+        "keyword":  "1-1"
+    },
+    {
+        "qid":  "Q1-010",
+        "difficulty":  "상",
+        "answer":  1,
+        "qtype":  "",
+        "keyword":  "1-1"
+    },
+    {
+        "qid":  "Q1-011",
+        "difficulty":  "하",
+        "answer":  1,
+        "qtype":  "정의 매칭형",
+        "keyword":  "HDFS 블록 분산 저장"
+    },
+    {
+        "qid":  "Q1-012",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "정의 매칭형",
+        "keyword":  "[교체] Zookeeper — 분산 환경의 설정 관리·동기화·리더 선출을 담당하는 분산 코디네이션 서비스 (오답: Oozie·Avro·Hive)"
+    },
+    {
+        "qid":  "Q1-013",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "하둡 컴포넌트 역할(Pig/Sqoop 함정)"
+    },
+    {
+        "qid":  "Q1-014",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "개념 비교형",
+        "keyword":  "Spark 인메모리 vs MapReduce"
+    },
+    {
+        "qid":  "Q1-015",
+        "difficulty":  "상",
+        "answer":  1,
+        "qtype":  "개념 비교형",
+        "keyword":  "YARN·HBase·Hive·Flume 조합 판별"
+    },
+    {
+        "qid":  "Q1-016",
+        "difficulty":  "하",
+        "answer":  3,
+        "qtype":  "사례 적용형",
+        "keyword":  "SaaS 웹 오피스 사례"
+    },
+    {
+        "qid":  "Q1-017",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "개념 비교형",
+        "keyword":  "IaaS/PaaS/SaaS 관리 범위"
+    },
+    {
+        "qid":  "Q1-018",
+        "difficulty":  "하",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "데이터 3법 구성(개·망·신)"
+    },
+    {
+        "qid":  "Q1-019",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "개념 비교형",
+        "keyword":  "개인정보·가명정보·익명정보 차이"
+    },
+    {
+        "qid":  "Q1-020",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "가명정보 특례 3목적(통·과·공)"
+    },
+    {
+        "qid":  "Q1-021",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "정의 매칭형",
+        "keyword":  "총계처리 정의"
+    },
+    {
+        "qid":  "Q1-022",
+        "difficulty":  "상",
+        "answer":  2,
+        "qtype":  "분류 귀속형",
+        "keyword":  "비식별화 세부기법 매칭(삭제 vs 마스킹)"
+    },
+    {
+        "qid":  "Q1-023",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "사례 적용형",
+        "keyword":  "마이데이터 개인정보 전송요구권"
+    },
+    {
+        "qid":  "Q1-024",
+        "difficulty":  "상",
+        "answer":  1,
+        "qtype":  "부정형",
+        "keyword":  "개인정보 수집·이용 기본 원칙"
+    },
+    {
+        "qid":  "Q1-025",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "숫자 암기형",
+        "keyword":  "방법론 단계 수(KDD 5·CRISP-DM 6·SEMMA 5)"
+    },
+    {
+        "qid":  "Q1-026",
+        "difficulty":  "하",
+        "answer":  1,
+        "qtype":  "순서 나열형",
+        "keyword":  "KDD 5단계"
+    },
+    {
+        "qid":  "Q1-027",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "순서 나열형",
+        "keyword":  "CRISP-DM 6단계"
+    },
+    {
+        "qid":  "Q1-028",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형·함정형",
+        "keyword":  "CRISP-DM 단계(KDD 데이터 변환 바꿔치기)"
+    },
+    {
+        "qid":  "Q1-029",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "순서 나열형",
+        "keyword":  "CRISP-DM 4계층 구조"
+    },
+    {
+        "qid":  "Q1-030",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "부정형",
+        "keyword":  "SEMMA 5단계·SAS"
+    },
+    {
+        "qid":  "Q1-031",
+        "difficulty":  "상",
+        "answer":  3,
+        "qtype":  "개념 비교형(조합형)",
+        "keyword":  "KDD·CRISP-DM·SEMMA 단계 대응 비교"
+    },
+    {
+        "qid":  "Q1-032",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "순서 나열형",
+        "keyword":  "하향식 접근 4단계"
+    },
+    {
+        "qid":  "Q1-033",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "상향식 접근·디자인 씽킹·프로토타이핑"
+    },
+    {
+        "qid":  "Q1-034",
+        "difficulty":  "상",
+        "answer":  3,
+        "qtype":  "사례 적용형(분류 귀속형)",
+        "keyword":  "분석 준비도·성숙도 사분면 진단(도입형)"
+    },
+    {
+        "qid":  "Q1-035",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "부정형",
+        "keyword":  "분석 마스터플랜 우선순위(시급성·난이도)"
+    },
+    {
+        "qid":  "Q1-036",
+        "difficulty":  "하",
+        "answer":  4,
+        "qtype":  "사례 적용형",
+        "keyword":  "분석 기획 시 고려사항(가용 데이터·유스케이스·장애요소)"
+    },
+    {
+        "qid":  "Q1-037",
+        "difficulty":  "하",
+        "answer":  1,
+        "qtype":  "정의 매칭형",
+        "keyword":  "WBS(작업 분할 구조) 작성 절차와 목적"
+    },
+    {
+        "qid":  "Q1-038",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "분석 목표 정의서 구성요소"
+    },
+    {
+        "qid":  "Q1-039",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "순서 나열형",
+        "keyword":  "데이터 확보 계획"
+    },
+    {
+        "qid":  "Q1-040",
+        "difficulty":  "상",
+        "answer":  3,
+        "qtype":  "진위 조합형(개념 비교)",
+        "keyword":  "작업 분할과 일정 계획"
+    },
+    {
+        "qid":  "Q1-041",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "순서 나열형",
+        "keyword":  "ETL 프로세스 순서(추출→변환→적재), ELT 함정"
+    },
+    {
+        "qid":  "Q1-042",
+        "difficulty":  "하",
+        "answer":  1,
+        "qtype":  "정의 매칭형",
+        "keyword":  "[교체] Rsync — 서버-클라이언트 방식 1:1 파일·디렉터리 동기화 수집 기술 (오답: FTP·RSS·Open API)"
+    },
+    {
+        "qid":  "Q1-043",
+        "difficulty":  "하",
+        "answer":  3,
+        "qtype":  "정의 매칭형",
+        "keyword":  "RSS(XML 배급·구독) vs Open API·FTP·크롤링"
+    },
+    {
+        "qid":  "Q1-044",
+        "difficulty":  "하",
+        "answer":  4,
+        "qtype":  "정의 매칭형",
+        "keyword":  "[교체] Chukwa — 에이전트-컬렉터 구조로 로그를 HDFS에 저장하는 하둡 서브프로젝트 로그 수집기 (오답: Flume·Kafka·Logstash)"
+    },
+    {
+        "qid":  "Q1-045",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "부정형·개념 비교형",
+        "keyword":  "ETL vs ELT 차이(변환 시점, DW vs 데이터 레이크)"
+    },
+    {
+        "qid":  "Q1-046",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형·분류 귀속형",
+        "keyword":  "데이터 유형별 수집 기술 매칭(정형 ETL·Sqoop / 반정형 Flume·Scribe·Chukwa / 비정형 크롤링·Scrapy)"
+    },
+    {
+        "qid":  "Q1-047",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "정의 매칭형",
+        "keyword":  "플룸(이벤트·에이전트·소스-채널-싱크) vs Logstash·Scribe·Fluentd"
+    },
+    {
+        "qid":  "Q1-048",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "부정형",
+        "keyword":  "데이터 품질 기준 4종(정확성·완전성·적시성·일관성), 적시성↔일관성 바꿔치기"
+    },
+    {
+        "qid":  "Q1-049",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "부정형",
+        "keyword":  "변환 기법 5종, 일반화↔속성 생성 정의 바꿔치기"
+    },
+    {
+        "qid":  "Q1-050",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "간단 계산형",
+        "keyword":  "[교체] FTP 능동/수동 모드와 포트 — 데이터 연결 시작 주체(능동=서버, 수동=클라이언트), 제어 21번/능동 데이터 20번 포트"
+    },
+    {
+        "qid":  "Q1-051",
+        "difficulty":  "상",
+        "answer":  1,
+        "qtype":  "개념 비교형(ㄱㄴㄷㄹ 조합)",
+        "keyword":  "FTP·Open API·RSS 구분 + 완전성·일관성 정의"
+    },
+    {
+        "qid":  "Q1-052",
+        "difficulty":  "상",
+        "answer":  4,
+        "qtype":  "사례 적용형·함정형",
+        "keyword":  "나이→연령대=일반화(평활화 함정), 일별→월별 합산=집계"
+    },
+    {
+        "qid":  "Q1-053",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "분류 귀속형",
+        "keyword":  "NoSQL 4유형-제품 매칭(MongoDB=문서)"
+    },
+    {
+        "qid":  "Q1-054",
+        "difficulty":  "하",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "데이터 웨어하우스 특징 4(주제지향·통합·시계열·비휘발)"
+    },
+    {
+        "qid":  "Q1-055",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "정의 매칭형",
+        "keyword":  "CAP 정리(2개만 보장, CP vs AP)"
+    },
+    {
+        "qid":  "Q1-056",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "개념 비교형",
+        "keyword":  "ACID vs BASE(최종 일관성)"
+    },
+    {
+        "qid":  "Q1-057",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "부정형",
+        "keyword":  "HDFS 구조(네임노드=메타데이터/데이터노드=블록, 복제)"
+    },
+    {
+        "qid":  "Q1-058",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "사례 적용형",
+        "keyword":  "데이터 마트(DW의 부서별 부분집합)"
+    },
+    {
+        "qid":  "Q1-059",
+        "difficulty":  "상",
+        "answer":  3,
+        "qtype":  "함정형(부정형)",
+        "keyword":  "데이터 마트 vs 데이터 레이크·ODS·Schema-on-Read/Write"
+    },
+    {
+        "qid":  "Q1-060",
+        "difficulty":  "상",
+        "answer":  4,
+        "qtype":  "조합형(개념 비교)",
+        "keyword":  "NoSQL 4유형 제품 매칭 + BASE 최종 일관성"
+    },
+    {
+        "qid":  "Q2-001",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "정의 매칭형",
+        "keyword":  "MCAR 완전 무작위 결측 정의"
+    },
+    {
+        "qid":  "Q2-002",
+        "difficulty":  "하",
+        "answer":  4,
+        "qtype":  "사례 적용형",
+        "keyword":  "MNAR 소득 무응답 사례"
+    },
+    {
+        "qid":  "Q2-003",
+        "difficulty":  "하",
+        "answer":  1,
+        "qtype":  "정의 매칭형",
+        "keyword":  "ESD ±3σ 이상값 탐지"
+    },
+    {
+        "qid":  "Q2-004",
+        "difficulty":  "하",
+        "answer":  3,
+        "qtype":  "정의 매칭형",
+        "keyword":  "노이즈 처리 구간화(binning)"
+    },
+    {
+        "qid":  "Q2-005",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "결측값 대치법(완전분석·평균·회귀·다중)"
+    },
+    {
+        "qid":  "Q2-006",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "간단 계산형",
+        "keyword":  "[교체] 머신러닝(밀도) 기반 이상값 탐지 — LOF(Local Outlier Factor)의 국소 밀도 비교 원리, iForest·ESD·IQR과의 구분 (정답 ②, 난이도 중 유지)"
+    },
+    {
+        "qid":  "Q2-007",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "부정형",
+        "keyword":  "이상값 탐지(Z-score·IQR·마할라노비스·상자그림)"
+    },
+    {
+        "qid":  "Q2-008",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "개념 비교형",
+        "keyword":  "[교체] 잡음(noise)의 개념 구분 — 결측값(값 없음)·이상값(정상 범위 밖)과의 차이, 평활화(구간화·회귀·군집화)로 완화 (정답 ①, 난이도 중 유지)"
+    },
+    {
+        "qid":  "Q2-009",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "사례 적용형",
+        "keyword":  "MAR 성별 의존 무응답 사례"
+    },
+    {
+        "qid":  "Q2-010",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "이상값 처리(삭제·대체·변환·분리)"
+    },
+    {
+        "qid":  "Q2-011",
+        "difficulty":  "상",
+        "answer":  1,
+        "qtype":  "조합형(옳은 것 모두 고르기)",
+        "keyword":  "MCAR/MAR/MNAR 종합·완전분석법 편향"
+    },
+    {
+        "qid":  "Q2-012",
+        "difficulty":  "상",
+        "answer":  3,
+        "qtype":  "부정형(함정형)",
+        "keyword":  "핫덱·콜드덱·평균 대치 분산 과소추정·확률적 회귀 대치"
+    },
+    {
+        "qid":  "Q2-013",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "정의매칭형",
+        "keyword":  "필터 기법(통계적 기준 변수 선택)"
+    },
+    {
+        "qid":  "Q2-014",
+        "difficulty":  "하",
+        "answer":  3,
+        "qtype":  "정의매칭형",
+        "keyword":  "SMOTE(소수 클래스 합성 오버샘플링)"
+    },
+    {
+        "qid":  "Q2-015",
+        "difficulty":  "하",
+        "answer":  1,
+        "qtype":  "간단계산형",
+        "keyword":  "민맥스 정규화 공식"
+    },
+    {
+        "qid":  "Q2-016",
+        "difficulty":  "하",
+        "answer":  4,
+        "qtype":  "개념비교형",
+        "keyword":  "파생변수 vs 요약변수"
+    },
+    {
+        "qid":  "Q2-017",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "부정형",
+        "keyword":  "래퍼 기법(전진·후진·단계적)"
+    },
+    {
+        "qid":  "Q2-018",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "분류귀속형",
+        "keyword":  "임베디드 기법(라쏘·릿지·엘라스틱넷)"
+    },
+    {
+        "qid":  "Q2-019",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "부정형",
+        "keyword":  "[교체] 다차원척도법(MDS) — 거리(근접성) 보존, 스트레스 값 적합도, 계량적/비계량적 구분, 목표변수 불필요 (정답 ③, 난이도 중 유지)"
+    },
+    {
+        "qid":  "Q2-020",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "PCA(분산 최대·직교·비지도)"
+    },
+    {
+        "qid":  "Q2-021",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "정의매칭형",
+        "keyword":  "LDA(클래스 간 분산 최대화) vs MDS·SVD"
+    },
+    {
+        "qid":  "Q2-022",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "사례적용형",
+        "keyword":  "로그 변환(양의 왜도 정규성 개선)"
+    },
+    {
+        "qid":  "Q2-023",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "언더·오버샘플링, 클래스 가중치"
+    },
+    {
+        "qid":  "Q2-024",
+        "difficulty":  "상",
+        "answer":  3,
+        "qtype":  "함정형",
+        "keyword":  "PCA 주성분 순서 vs 요인분석 잠재요인 대등"
+    },
+    {
+        "qid":  "Q2-025",
+        "difficulty":  "상",
+        "answer":  2,
+        "qtype":  "정의매칭형",
+        "keyword":  "Tomek Link vs ENN 언더샘플링"
+    },
+    {
+        "qid":  "Q2-026",
+        "difficulty":  "상",
+        "answer":  4,
+        "qtype":  "개념비교형",
+        "keyword":  "[교체] 종합형: 원-핫 인코딩(차원 증가)·레이블 인코딩(허구적 순서)·차원의 저주·구간화의 정보 손실 상충 관계, 변별 지점은 ㄹ(구간화 정보 손실 없음=거짓) (정답 ④, 난이도 상 유지)"
+    },
+    {
+        "qid":  "Q2-027",
+        "difficulty":  "하",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "EDA 4원칙(저항성·잔차·재표현·현시성)"
+    },
+    {
+        "qid":  "Q2-028",
+        "difficulty":  "하",
+        "answer":  1,
+        "qtype":  "개념 비교형",
+        "keyword":  "중심 경향치 이상값 민감도(평균)"
+    },
+    {
+        "qid":  "Q2-029",
+        "difficulty":  "하",
+        "answer":  3,
+        "qtype":  "부정형",
+        "keyword":  "박스플롯 구성 요소(최빈값 불가)"
+    },
+    {
+        "qid":  "Q2-030",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "간단 계산형",
+        "keyword":  "자료 5개 평균·중앙값 비교"
+    },
+    {
+        "qid":  "Q2-031",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "순서 나열형",
+        "keyword":  "양의 왜도 평균\u003e중앙값\u003e최빈값"
+    },
+    {
+        "qid":  "Q2-032",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "사례 적용형",
+        "keyword":  "변동계수(표준편차/평균)"
+    },
+    {
+        "qid":  "Q2-033",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "부정형·개념 비교형",
+        "keyword":  "피어슨 vs 스피어만 상관"
+    },
+    {
+        "qid":  "Q2-034",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "정의 매칭형",
+        "keyword":  "크론바흐 알파(내적 일관성 신뢰도)"
+    },
+    {
+        "qid":  "Q2-035",
+        "difficulty":  "상",
+        "answer":  4,
+        "qtype":  "공식 식별형·간단 계산형",
+        "keyword":  "IQR 1.5배 이상값 판정"
+    },
+    {
+        "qid":  "Q2-036",
+        "difficulty":  "상",
+        "answer":  1,
+        "qtype":  "함정형(복수 진술)",
+        "keyword":  "[교체] 종합형: 자료 유형별 탐색 도구 매칭 — 줄기-잎 그림(개별값 보존)·히스토그램 vs 막대그래프·범위의 이상값 민감성, 변별 지점은 ㄹ(범주형×범주형에 산점도=거짓, 교차표·모자이크가 정답 도구) (정답 ①, 난이도 상 유지)"
+    },
+    {
+        "qid":  "Q2-037",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "정의 매칭형",
+        "keyword":  "시공간 데이터 탐색/코로플레스맵·카토그램·버블맵"
+    },
+    {
+        "qid":  "Q2-038",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "부정형",
+        "keyword":  "다변량 데이터 탐색/산점도 행렬·상관행렬·무상관≠독립"
+    },
+    {
+        "qid":  "Q2-039",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "분류 귀속형(짝 바꿔치기 함정)",
+        "keyword":  "비정형 데이터 탐색/텍스트 형태소 분석·이미지 픽셀·오디오 스펙트로그램"
+    },
+    {
+        "qid":  "Q2-040",
+        "difficulty":  "상",
+        "answer":  1,
+        "qtype":  "개념 비교형(조합 나열)",
+        "keyword":  "다변량+시공간 종합/카토그램 보완·상관 히트맵·상관≠인과"
+    },
+    {
+        "qid":  "Q2-041",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "정의 매칭형",
+        "keyword":  "순서척도 정의(척도 4종)"
+    },
+    {
+        "qid":  "Q2-042",
+        "difficulty":  "하",
+        "answer":  4,
+        "qtype":  "분류 귀속형",
+        "keyword":  "척도 사례 귀속(온도=구간, 무게=비율)"
+    },
+    {
+        "qid":  "Q2-043",
+        "difficulty":  "하",
+        "answer":  1,
+        "qtype":  "사례 적용형",
+        "keyword":  "포아송분포(단위시간 사건 수) 사례 매칭"
+    },
+    {
+        "qid":  "Q2-044",
+        "difficulty":  "하",
+        "answer":  3,
+        "qtype":  "정의 매칭형",
+        "keyword":  "계통추출 정의(표본추출 4법)"
+    },
+    {
+        "qid":  "Q2-045",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "간단 계산형",
+        "keyword":  "조건부 확률 P(B|A)=P(A∩B)/P(A)"
+    },
+    {
+        "qid":  "Q2-046",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "간단 계산형",
+        "keyword":  "이항분포 기댓값 np·분산 np(1-p)"
+    },
+    {
+        "qid":  "Q2-047",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "연속확률분포 용도 매칭(Z·t소표본·카이제곱·F분산비)"
+    },
+    {
+        "qid":  "Q2-048",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "함정형(부정형)",
+        "keyword":  "층화(층 내 동질) vs 군집(군집 내 이질) 바꿔치기"
+    },
+    {
+        "qid":  "Q2-049",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "부정형",
+        "keyword":  "중심극한정리(모집단 분포 무관)"
+    },
+    {
+        "qid":  "Q2-050",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "이산확률분포(베르누이·이항·포아송 E=V=λ)"
+    },
+    {
+        "qid":  "Q2-051",
+        "difficulty":  "상",
+        "answer":  2,
+        "qtype":  "간단 계산형",
+        "keyword":  "베이즈 정리 사후확률(전확률 분모)"
+    },
+    {
+        "qid":  "Q2-052",
+        "difficulty":  "상",
+        "answer":  3,
+        "qtype":  "개념 비교형(종합 고르기)",
+        "keyword":  "구간척도 비율비교 불가·명목척도 최빈값·층화·중심극한정리"
+    },
+    {
+        "qid":  "Q2-053",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "정의 매칭형",
+        "keyword":  "점추정량의 성질(불편성·효율성·일치성·충족성)"
+    },
+    {
+        "qid":  "Q2-054",
+        "difficulty":  "하",
+        "answer":  1,
+        "qtype":  "사례 적용형(판정)",
+        "keyword":  "p-value와 유의수준 판정(p\u003cα 기각)"
+    },
+    {
+        "qid":  "Q2-055",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "부정형",
+        "keyword":  "신뢰구간의 올바른 해석"
+    },
+    {
+        "qid":  "Q2-056",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "표 매칭형",
+        "keyword":  "1종 오류(α)·2종 오류(β)·검정력(1-β)"
+    },
+    {
+        "qid":  "Q2-057",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "부정형",
+        "keyword":  "귀무가설·대립가설 설정, 양측·단측 검정"
+    },
+    {
+        "qid":  "Q2-058",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "사례 적용형",
+        "keyword":  "ANOVA(3집단 이상 평균 비교) 검정 기법 선택"
+    },
+    {
+        "qid":  "Q2-059",
+        "difficulty":  "상",
+        "answer":  4,
+        "qtype":  "부정형(함정형)",
+        "keyword":  "1종·2종 오류와 검정력의 관계, 표본 크기 효과"
+    },
+    {
+        "qid":  "Q2-060",
+        "difficulty":  "상",
+        "answer":  1,
+        "qtype":  "분류 귀속형(매칭)",
+        "keyword":  "검정 기법 선택(Z·t·카이제곱·ANOVA)"
+    },
+    {
+        "qid":  "Q3-001",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "분류 귀속형(함정형)",
+        "keyword":  "비지도학습 기법 귀속·로지스틱 회귀 함정"
+    },
+    {
+        "qid":  "Q3-002",
+        "difficulty":  "하",
+        "answer":  3,
+        "qtype":  "정의 매칭형",
+        "keyword":  "강화학습(에이전트·보상·정책)"
+    },
+    {
+        "qid":  "Q3-003",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "분류 귀속형",
+        "keyword":  "[교체] 지도학습의 분류 vs 회귀 판별 — 목표변수(종속변수)가 범주형이면 분류, 연속형 수치면 회귀 (사례 적용형)"
+    },
+    {
+        "qid":  "Q3-004",
+        "difficulty":  "상",
+        "answer":  4,
+        "qtype":  "부정형(함정형)",
+        "keyword":  "지도/비지도/강화 구분·분류vs회귀 바꿔치기"
+    },
+    {
+        "qid":  "Q3-005",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "부정형(개념 비교형)",
+        "keyword":  "통계 기반 vs 데이터 마이닝 vs 머신러닝"
+    },
+    {
+        "qid":  "Q3-006",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "부정형",
+        "keyword":  "분석 모형 정의·변수 선정(전진/후진/단계적)"
+    },
+    {
+        "qid":  "Q3-007",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "순서 나열형",
+        "keyword":  "모형 구축 절차(요건 정의→모델링→검증 및 테스트→적용)"
+    },
+    {
+        "qid":  "Q3-008",
+        "difficulty":  "상",
+        "answer":  3,
+        "qtype":  "개념 비교형(ㄱㄴㄷㄹ 조합)",
+        "keyword":  "구축 절차 단계별 수행 활동·검증 데이터 분리"
+    },
+    {
+        "qid":  "Q3-009",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "사례 적용형·정의 매칭형",
+        "keyword":  "데이터 분할(검증 데이터 역할: 하이퍼파라미터 튜닝·과적합 확인)"
+    },
+    {
+        "qid":  "Q3-010",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "개념 비교형",
+        "keyword":  "R(통계 특화·패키지·CRAN) vs Python(범용·라이브러리) 비교"
+    },
+    {
+        "qid":  "Q3-011",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형·함정형",
+        "keyword":  "훈련/검증/평가 데이터 역할 구분 — 검증·평가 역할 바꿔치기 함정"
+    },
+    {
+        "qid":  "Q3-012",
+        "difficulty":  "상",
+        "answer":  3,
+        "qtype":  "조합 선택형·개념 비교형",
+        "keyword":  "[교체] 분석 도구 선정 — 오픈소스(R·Python: 무료·커뮤니티 패키지·최신 기법 반영 빠름) vs 상용(SAS·SPSS: 라이선스·벤더 기술 지원·SPSS GUI) 비교"
+    },
+    {
+        "qid":  "Q3-013",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "정의 매칭형",
+        "keyword":  "회귀 가정-더빈왓슨(독립성)"
+    },
+    {
+        "qid":  "Q3-014",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "다중공선성(VIF\u003e10)·해결법"
+    },
+    {
+        "qid":  "Q3-015",
+        "difficulty":  "하",
+        "answer":  1,
+        "qtype":  "공식 식별형",
+        "keyword":  "시그모이드 1/(1+e^-x)"
+    },
+    {
+        "qid":  "Q3-016",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "간단 계산형",
+        "keyword":  "오즈 p/(1-p) 계산"
+    },
+    {
+        "qid":  "Q3-017",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "정의 매칭형",
+        "keyword":  "CART=지니·C4.5=엔트로피·CHAID=카이제곱"
+    },
+    {
+        "qid":  "Q3-018",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "불순도(지니·엔트로피)·정보이득·가지치기"
+    },
+    {
+        "qid":  "Q3-019",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "부정형",
+        "keyword":  "퍼셉트론 XOR 한계·역전파·기울기 소실"
+    },
+    {
+        "qid":  "Q3-020",
+        "difficulty":  "하",
+        "answer":  3,
+        "qtype":  "정의 매칭형",
+        "keyword":  "소프트맥스(다중분류 확률 합=1)"
+    },
+    {
+        "qid":  "Q3-021",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "부정형",
+        "keyword":  "SVM 마진·서포트벡터·커널트릭·슬랙변수"
+    },
+    {
+        "qid":  "Q3-022",
+        "difficulty":  "상",
+        "answer":  1,
+        "qtype":  "간단 계산형",
+        "keyword":  "연관분석 지지도·신뢰도·향상도 계산, 향상도=1 독립"
+    },
+    {
+        "qid":  "Q3-023",
+        "difficulty":  "상",
+        "answer":  4,
+        "qtype":  "개념 비교형",
+        "keyword":  "K-means 단점·연결법·DBSCAN·실루엣 계수"
+    },
+    {
+        "qid":  "Q3-024",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "정의 매칭형",
+        "keyword":  "회귀 가정-등분산성"
+    },
+    {
+        "qid":  "Q3-025",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "부정형",
+        "keyword":  "회귀 가정 진단(잔차 산점도·더빈-왓슨)"
+    },
+    {
+        "qid":  "Q3-026",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "로지스틱 회귀(범주형 종속변수·오즈비·오즈 범위)"
+    },
+    {
+        "qid":  "Q3-027",
+        "difficulty":  "하",
+        "answer":  1,
+        "qtype":  "정의 매칭형",
+        "keyword":  "SOM(자기조직화지도)"
+    },
+    {
+        "qid":  "Q3-028",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "순서 나열형",
+        "keyword":  "K-means 절차·단점"
+    },
+    {
+        "qid":  "Q3-029",
+        "difficulty":  "하",
+        "answer":  4,
+        "qtype":  "정의 매칭형",
+        "keyword":  "와드 연결법(분산)·연결법 4종"
+    },
+    {
+        "qid":  "Q3-030",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "부정형",
+        "keyword":  "덴드로그램·DBSCAN·계층적 군집 재배정 불가·실루엣"
+    },
+    {
+        "qid":  "Q3-031",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "간단 계산+사례 적용형",
+        "keyword":  "향상도 계산·\u003e1 양의 연관"
+    },
+    {
+        "qid":  "Q3-032",
+        "difficulty":  "상",
+        "answer":  1,
+        "qtype":  "함정형",
+        "keyword":  "Apriori 원리(비빈발 상위집합 가지치기)"
+    },
+    {
+        "qid":  "Q3-033",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "활성화 함수 출력 범위(tanh·ReLU·시그모이드)"
+    },
+    {
+        "qid":  "Q3-034",
+        "difficulty":  "상",
+        "answer":  3,
+        "qtype":  "분류 귀속형",
+        "keyword":  "지도/비지도 귀속(K-means·SOM 함정)"
+    },
+    {
+        "qid":  "Q3-035",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "정의 매칭형",
+        "keyword":  "카이제곱 독립성 검정"
+    },
+    {
+        "qid":  "Q3-036",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "사례 적용형",
+        "keyword":  "피셔 정확 검정(기대빈도 5 미만)"
+    },
+    {
+        "qid":  "Q3-037",
+        "difficulty":  "하",
+        "answer":  3,
+        "qtype":  "간단 계산형",
+        "keyword":  "분할표 기대빈도 공식"
+    },
+    {
+        "qid":  "Q3-038",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "시계열 정상성 3조건·차분·로그 변환"
+    },
+    {
+        "qid":  "Q3-039",
+        "difficulty":  "하",
+        "answer":  1,
+        "qtype":  "정의 매칭형",
+        "keyword":  "시계열 분해 4요소(계절 vs 순환)"
+    },
+    {
+        "qid":  "Q3-040",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "공식 식별형",
+        "keyword":  "ARIMA(p,d,q) 차수 의미"
+    },
+    {
+        "qid":  "Q3-041",
+        "difficulty":  "상",
+        "answer":  3,
+        "qtype":  "개념 비교형(복수 고르기)",
+        "keyword":  "AR·MA 구분·백색잡음"
+    },
+    {
+        "qid":  "Q3-042",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "나이브베이즈 조건부 독립 가정"
+    },
+    {
+        "qid":  "Q3-043",
+        "difficulty":  "하",
+        "answer":  1,
+        "qtype":  "정의 매칭형",
+        "keyword":  "CNN 합성곱·풀링"
+    },
+    {
+        "qid":  "Q3-044",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "개념 비교형",
+        "keyword":  "LSTM 기울기 소실·장기 의존성·게이트"
+    },
+    {
+        "qid":  "Q3-045",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "부정형(함정형)",
+        "keyword":  "GAN 생성자·판별자 적대 학습"
+    },
+    {
+        "qid":  "Q3-046",
+        "difficulty":  "상",
+        "answer":  4,
+        "qtype":  "부정형(함정형)",
+        "keyword":  "오토인코더 비지도·차원축소"
+    },
+    {
+        "qid":  "Q3-047",
+        "difficulty":  "상",
+        "answer":  1,
+        "qtype":  "사례 적용형",
+        "keyword":  "딥러닝 모델 선택(GAN·오토인코더·LSTM)"
+    },
+    {
+        "qid":  "Q3-048",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "정의매칭형",
+        "keyword":  "TF-IDF(문서 내 빈도×역문서 빈도)"
+    },
+    {
+        "qid":  "Q3-049",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "부정형",
+        "keyword":  "텍스트 전처리(코퍼스·토큰화·불용어·형태소)"
+    },
+    {
+        "qid":  "Q3-050",
+        "difficulty":  "하",
+        "answer":  1,
+        "qtype":  "정의매칭형",
+        "keyword":  "토픽 모델링(LDA)"
+    },
+    {
+        "qid":  "Q3-051",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "감성 분석·오피니언 마이닝"
+    },
+    {
+        "qid":  "Q3-052",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "정의매칭형",
+        "keyword":  "SNA 매개 중심성(다리 역할)"
+    },
+    {
+        "qid":  "Q3-053",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "분류귀속형(매칭)",
+        "keyword":  "SNA 중심성 4종 매칭(연결·근접·위세)"
+    },
+    {
+        "qid":  "Q3-054",
+        "difficulty":  "하",
+        "answer":  1,
+        "qtype":  "정의매칭형",
+        "keyword":  "배깅(부트스트랩·병렬·분산 감소)"
+    },
+    {
+        "qid":  "Q3-055",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "개념비교형",
+        "keyword":  "보팅(하드 vs 소프트)"
+    },
+    {
+        "qid":  "Q3-056",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형(함정형)",
+        "keyword":  "부스팅(순차·오분류 가중치·AdaBoost·GBM·XGBoost)"
+    },
+    {
+        "qid":  "Q3-057",
+        "difficulty":  "상",
+        "answer":  2,
+        "qtype":  "개념비교형(조합)",
+        "keyword":  "배깅 vs 부스팅(분산·편향·랜덤포레스트 귀속)"
+    },
+    {
+        "qid":  "Q3-058",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형(함정형)",
+        "keyword":  "비모수 검정 특징(가정 불필요·순위 기반·검정력·런 검정)"
+    },
+    {
+        "qid":  "Q3-059",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "분류귀속형(대응 매칭)",
+        "keyword":  "만-휘트니 U ↔ 독립표본 t-검정 대응"
+    },
+    {
+        "qid":  "Q3-060",
+        "difficulty":  "상",
+        "answer":  3,
+        "qtype":  "사례적용형",
+        "keyword":  "비모수 검정 선택(윌콕슨 부호순위·크루스칼-왈리스·만-휘트니 U)"
+    },
+    {
+        "qid":  "Q4-001",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "공식 식별형",
+        "keyword":  "RMSE(MSE·MAE·MAPE 구분)"
+    },
+    {
+        "qid":  "Q4-002",
+        "difficulty":  "하",
+        "answer":  3,
+        "qtype":  "간단 계산형",
+        "keyword":  "결정계수 R²=1-SSE/SST (SST=100, SSE=25 → 0.75)"
+    },
+    {
+        "qid":  "Q4-003",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "SST=SSR+SSE, 수정 결정계수(변수 수 페널티)"
+    },
+    {
+        "qid":  "Q4-004",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "개념 비교형",
+        "keyword":  "AIC·BIC(작을수록 좋음, BIC 벌점 큼)"
+    },
+    {
+        "qid":  "Q4-005",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "간단 계산형",
+        "keyword":  "혼동행렬 재현율(TP=40, FN=10 → 0.8)"
+    },
+    {
+        "qid":  "Q4-006",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "간단 계산형",
+        "keyword":  "F1=조화평균(정밀도 0.75·재현율 0.5 → 0.6, 산술평균 함정)"
+    },
+    {
+        "qid":  "Q4-007",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "함정형(부정형)",
+        "keyword":  "정밀도 vs 특이도 정의 바꿔치기, FPR=1-특이도"
+    },
+    {
+        "qid":  "Q4-008",
+        "difficulty":  "상",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "ROC(x=FPR, y=TPR)·AUC(0.5~1)·향상도 곡선"
+    },
+    {
+        "qid":  "Q4-009",
+        "difficulty":  "상",
+        "answer":  2,
+        "qtype":  "조합 선택형(옳은 것 모두 고르기)",
+        "keyword":  "홀드아웃·k-fold·LOOCV·부트스트랩 36.8%(63.2% 주석 포함)"
+    },
+    {
+        "qid":  "Q4-010",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "간단계산형",
+        "keyword":  "정밀도 계산(TP/(TP+FP))"
+    },
+    {
+        "qid":  "Q4-011",
+        "difficulty":  "하",
+        "answer":  3,
+        "qtype":  "정의매칭형",
+        "keyword":  "카이제곱 적합도 검정(관측도수·기대도수)"
+    },
+    {
+        "qid":  "Q4-012",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "간단계산형",
+        "keyword":  "거짓긍정률 FPR=1-특이도 계산"
+    },
+    {
+        "qid":  "Q4-013",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "공식식별형",
+        "keyword":  "MAE 공식(오차 절댓값 평균)"
+    },
+    {
+        "qid":  "Q4-014",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "홀드아웃·검증데이터·LpOCV 계산량"
+    },
+    {
+        "qid":  "Q4-015",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "사례적용형(계산)",
+        "keyword":  "향상도(lift)=구간 반응률/전체 반응률"
+    },
+    {
+        "qid":  "Q4-016",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "적합도 검정 종합(K-S·Q-Q·샤피로-윌크 정규성)"
+    },
+    {
+        "qid":  "Q4-017",
+        "difficulty":  "상",
+        "answer":  1,
+        "qtype":  "부정형(사례적용)",
+        "keyword":  "불균형 데이터에서 정확도 한계·지표 선택"
+    },
+    {
+        "qid":  "Q4-018",
+        "difficulty":  "상",
+        "answer":  2,
+        "qtype":  "함정형(계산)",
+        "keyword":  "ROC 좌표(FPR,TPR) 계산·축 바꿔치기"
+    },
+    {
+        "qid":  "Q4-019",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "사례 적용형",
+        "keyword":  "과대적합 진단(훈련↑평가↓)"
+    },
+    {
+        "qid":  "Q4-020",
+        "difficulty":  "하",
+        "answer":  1,
+        "qtype":  "정의 매칭형",
+        "keyword":  "L1 규제(라쏘)·희소성·변수 선택"
+    },
+    {
+        "qid":  "Q4-021",
+        "difficulty":  "하",
+        "answer":  3,
+        "qtype":  "정의 매칭형",
+        "keyword":  "드롭아웃"
+    },
+    {
+        "qid":  "Q4-022",
+        "difficulty":  "하",
+        "answer":  4,
+        "qtype":  "분류 귀속형(함정형)",
+        "keyword":  "하이퍼파라미터 vs 파라미터(가중치·편향)"
+    },
+    {
+        "qid":  "Q4-023",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "부정형",
+        "keyword":  "과대적합 해결(데이터 증강·규제·조기 종료)"
+    },
+    {
+        "qid":  "Q4-024",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "개념 비교형",
+        "keyword":  "경사하강법 3종(배치·SGD·미니배치)"
+    },
+    {
+        "qid":  "Q4-025",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "정의 매칭형",
+        "keyword":  "모멘텀(관성)"
+    },
+    {
+        "qid":  "Q4-026",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "개념 비교형",
+        "keyword":  "[교체] 기울기 소실(gradient vanishing)과 ReLU 활성화 함수에 의한 완화"
+    },
+    {
+        "qid":  "Q4-027",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형(함정형)",
+        "keyword":  "학습률 과대(발산)·과소(느림)"
+    },
+    {
+        "qid":  "Q4-028",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "부정형",
+        "keyword":  "그리드 서치 vs 랜덤 서치"
+    },
+    {
+        "qid":  "Q4-029",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "부정형(함정형)",
+        "keyword":  "배치 정규화·조기 종료(검증 오차 기준)"
+    },
+    {
+        "qid":  "Q4-030",
+        "difficulty":  "상",
+        "answer":  4,
+        "qtype":  "부정형(개념 비교형)",
+        "keyword":  "L1 vs L2 규제·엘라스틱넷"
+    },
+    {
+        "qid":  "Q4-031",
+        "difficulty":  "상",
+        "answer":  1,
+        "qtype":  "조합형(순서·계보)",
+        "keyword":  "옵티마이저 계보(모멘텀·AdaGrad·RMSProp·Adam)"
+    },
+    {
+        "qid":  "Q4-032",
+        "difficulty":  "상",
+        "answer":  3,
+        "qtype":  "사례 적용형",
+        "keyword":  "분석모형 융합·최종모형 선정"
+    },
+    {
+        "qid":  "Q4-033",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "사례 적용형(원칙 선택)",
+        "keyword":  "분석모형 해석(비즈니스 관점 전달)"
+    },
+    {
+        "qid":  "Q4-034",
+        "difficulty":  "하",
+        "answer":  3,
+        "qtype":  "정의 매칭형",
+        "keyword":  "IRR(내부수익률)"
+    },
+    {
+        "qid":  "Q4-035",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "부정형+함정형(IRR↔ROI 바꿔치기)",
+        "keyword":  "ROI·NPV·TCO·투자 회수 기간 정의"
+    },
+    {
+        "qid":  "Q4-036",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "간단 계산형",
+        "keyword":  "ROI 계산(순이익/투자비×100)"
+    },
+    {
+        "qid":  "Q4-037",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "간단 계산형",
+        "keyword":  "투자 회수 기간(payback period) 계산"
+    },
+    {
+        "qid":  "Q4-038",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "부정형(판단 기준)",
+        "keyword":  "NPV\u003e0·IRR\u003e요구수익률·회수기간 판단 기준, TCO"
+    },
+    {
+        "qid":  "Q4-039",
+        "difficulty":  "상",
+        "answer":  1,
+        "qtype":  "부정형+개념 비교형",
+        "keyword":  "NPV와 IRR의 할인율 의존성 비교"
+    },
+    {
+        "qid":  "Q4-040",
+        "difficulty":  "상",
+        "answer":  4,
+        "qtype":  "사례 적용형(발언-지표 매칭)",
+        "keyword":  "TCO·payback·NPV·ROI 사례 매칭"
+    },
+    {
+        "qid":  "Q4-041",
+        "difficulty":  "하",
+        "answer":  2,
+        "qtype":  "분류 귀속형",
+        "keyword":  "시간 시각화(선 그래프)"
+    },
+    {
+        "qid":  "Q4-042",
+        "difficulty":  "하",
+        "answer":  4,
+        "qtype":  "정의 매칭형",
+        "keyword":  "카토그램(면적 왜곡)"
+    },
+    {
+        "qid":  "Q4-043",
+        "difficulty":  "하",
+        "answer":  1,
+        "qtype":  "부정형",
+        "keyword":  "분포 시각화(파이·도넛·트리맵)"
+    },
+    {
+        "qid":  "Q4-044",
+        "difficulty":  "하",
+        "answer":  3,
+        "qtype":  "정의 매칭형",
+        "keyword":  "체르노프 페이스(얼굴 요소)"
+    },
+    {
+        "qid":  "Q4-045",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "순서 나열형",
+        "keyword":  "시각화 절차 3단계(구조화→시각화→시각표현)"
+    },
+    {
+        "qid":  "Q4-046",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "비교 시각화(히트맵·스타·평행좌표)"
+    },
+    {
+        "qid":  "Q4-047",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "분류 귀속형",
+        "keyword":  "관계 시각화(산점도·버블·히스토그램, 교재별 차이 주석)"
+    },
+    {
+        "qid":  "Q4-048",
+        "difficulty":  "중",
+        "answer":  3,
+        "qtype":  "분류 귀속형",
+        "keyword":  "공간 시각화(등치지역도·도트맵·카토그램)"
+    },
+    {
+        "qid":  "Q4-049",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "사례 적용형",
+        "keyword":  "평행 좌표 그래프(다변량 축)"
+    },
+    {
+        "qid":  "Q4-050",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "부정형",
+        "keyword":  "인포그래픽 특징"
+    },
+    {
+        "qid":  "Q4-051",
+        "difficulty":  "상",
+        "answer":  2,
+        "qtype":  "조합형(유형-차트 매칭)",
+        "keyword":  "시각화 5유형 종합 매칭"
+    },
+    {
+        "qid":  "Q4-052",
+        "difficulty":  "상",
+        "answer":  3,
+        "qtype":  "함정형·개념 비교형(부정형)",
+        "keyword":  "등치지역도 vs 카토그램 특징 구분"
+    },
+    {
+        "qid":  "Q4-053",
+        "difficulty":  "하",
+        "answer":  1,
+        "qtype":  "정의 매칭형",
+        "keyword":  "분석모형 모니터링"
+    },
+    {
+        "qid":  "Q4-054",
+        "difficulty":  "하",
+        "answer":  3,
+        "qtype":  "부정형",
+        "keyword":  "분석모형 전개(운영 적용·배포)"
+    },
+    {
+        "qid":  "Q4-055",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "부정형·개념 비교형",
+        "keyword":  "모니터링 vs 리모델링"
+    },
+    {
+        "qid":  "Q4-056",
+        "difficulty":  "중",
+        "answer":  4,
+        "qtype":  "순서 나열형",
+        "keyword":  "서비스 적용 절차"
+    },
+    {
+        "qid":  "Q4-057",
+        "difficulty":  "중",
+        "answer":  1,
+        "qtype":  "사례 적용형",
+        "keyword":  "[교체] 분석 결과 활용 시나리오의 구체성(주체·시점·업무·방법) 사례 판별"
+    },
+    {
+        "qid":  "Q4-058",
+        "difficulty":  "중",
+        "answer":  2,
+        "qtype":  "부정형",
+        "keyword":  "분석 결과 활용 시나리오 개발"
+    },
+    {
+        "qid":  "Q4-059",
+        "difficulty":  "상",
+        "answer":  3,
+        "qtype":  "복수 선택 조합형(함정형)",
+        "keyword":  "분석모형 모니터링(성능 저하 감지)"
+    },
+    {
+        "qid":  "Q4-060",
+        "difficulty":  "상",
+        "answer":  4,
+        "qtype":  "사례 적용형·함정형",
+        "keyword":  "분석모형 리모델링"
+    }
+]
